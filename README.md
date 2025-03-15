@@ -1,2 +1,2 @@
 # First
-A First Project on Git
+A First Project on Git.
